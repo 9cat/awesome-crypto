@@ -13,7 +13,7 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 - 
 
 ## 加拿大
-- [HiBitEX](https://www.hibitex.com/zh_CN/register?inviteCode=WTTLLZT) 溫哥華(加拿大) 本地有店面, 有情懷的交易平臺. 可在國內用微信, 支付寶直接交易. 
+- [HiBitEX](https://www.hibitex.com/zh_CN/register?inviteCode=WTTLLZT) 溫哥華(加拿大) 本地有店面, 有情懷的交易平臺.可用加幣電匯,現金. 人民幣可用微信, 支付寶銀行直接轉賬. 
 - [VirgoCX](https://www.virgocx.ca/page#/register?code=o97aZr0d) 多倫多(加拿大) 可直接電匯, 與E-Transfer直接購買. 出入金費用較低. 
 - [Kraken](https://www.kraken.com) 美國總部, 可出入金加幣
 
