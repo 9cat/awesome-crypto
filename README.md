@@ -7,6 +7,7 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 ## 全球站
 - [BINANCE 幣安](https://www.binance.com/zh-CN/register?ref=ZYWF115V) -  2021年目前最強大的弱監管加密貨幣交易所
 - [HUOBI   火幣](https://www.huobi.pe/zh-cn/topic/invited/?invite_code=48b53) -  2013-2021 目前中國人民幣OTC最強大的綜合加密貨幣交易所
+- [OKEX](https://www.okex.com/join/1889195) 最早的期貨平臺. 也同時有現貨, 期權交易平臺. OKCOIN的出海版本.
 - [COINEX ](https://www.coinex.com/register?refer_code=pkz6r) - 技術不錯的交易平臺. 就是營銷能力欠缺,而且容易被站隊
 - [Deribit](https://www.deribit.com/reg-5649.1758) 2021年目前最強大的期權中心交易所
 - 
