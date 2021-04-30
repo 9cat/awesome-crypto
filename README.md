@@ -8,12 +8,13 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 - [BINANCE 幣安](https://www.binance.com/zh-CN/register?ref=ZYWF115V) -  2021年目前最強大的弱監管加密貨幣交易所
 - [HUOBI   火幣](https://www.huobi.pe/zh-cn/topic/invited/?invite_code=48b53) -  2013-2021 目前中國人民幣OTC最強大的綜合加密貨幣交易所
 - [COINEX ](https://www.coinex.com/register?refer_code=pkz6r) - 技術不錯的交易平臺. 就是營銷能力欠缺,而且容易被站隊
-
+- [Deribit](https://www.deribit.com/reg-5649.1758) 2021年目前最強大的期權中心交易所
+- 
 
 ## 加拿大
 - [HiBitEX](https://www.hibitex.com/zh_CN/register?inviteCode=WTTLLZT) 溫哥華(加拿大) 本地有店面, 有情懷的交易平臺. 可在國內用微信, 支付寶直接交易. 
 - [VirgoCX](https://www.virgocx.ca/page#/register?code=o97aZr0d) 多倫多(加拿大) 可直接電匯, 與E-Transfer直接購買. 出入金費用較低. 
-- 
+- [Kraken](https://www.kraken.com) 美國總部, 可出入金加幣
 
 
 ## 美國
@@ -23,6 +24,10 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 
 **[`^        back to top        ^`](#)**
 
+
+# 錢包軟件
+- [BitPie 比特派](https://bitpie.com/loan/index.html?code=YQS0RF)  最老牌穩定的錢包之一    
+- [TP錢包](https://www.tokenpocket.pro/) 2021年目前最流行Dapp的全能性錢包
 
 # 挖礦資源
 
