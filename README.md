@@ -34,6 +34,8 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 
 
 # 挖礦資源
+## Pow礦池
+https://prohashing.com?r=DOI2NMGK
 
 
 **[`^        back to top        ^`](#)**
