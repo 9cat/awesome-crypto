@@ -40,12 +40,11 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 - [星火礦池](https://www.sparkpool.com/)  最大ETH礦池 
 
 ## DeFi 農民
-
 ### ETH  平臺
- - [Sushi 壽司](https://app.sushi.com/yield)
+ - [Sushi 壽司](https://app.sushi.com/yield) 2020年9月的高收益, 現在穩定,收益不高. 
 
 ### BSC  平臺
- - [Pancake 煎餅](https://pancakeswap.finance/farms)
+ - [Pancake 煎餅](https://pancakeswap.finance/farms)   幣安主推的高收益挖礦項目
  
 ### HECO 平臺
 
