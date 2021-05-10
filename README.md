@@ -38,7 +38,15 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 - [Prohashing 機槍池](https://prohashing.com?r=DOI2NMGK)   美國BASE的機槍池. 非常技術派團隊, 收費比較高3%. 但挺人性化.
 - [F2Pool 魚池](https://www.f2pool.com) 最老牌礦池. 具有操控市場的潛力
 - [星火礦池](https://www.sparkpool.com/)  最大ETH礦池 
-- 
+
+## DeFi 農民
+## ETH  平臺
+ - [Sushi 壽司](https://app.sushi.com/yield)
+
+## BSC  平臺
+ - [Pancake 煎餅](https://pancakeswap.finance/farms)
+ 
+## HECO 平臺
 
 
 **[`^        back to top        ^`](#)**
@@ -46,6 +54,19 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 
 
 # Defi 平臺
+## ETH  平臺 (氣費高)
+- [Uniswap 獨角獸交易所] (https://www.uniswapsparkpool.com/)  最大ETH去中心化交易平臺
+- [Sushi   壽司交易所] (https://www.uniswapsparkpool.com/)  老二
+ 
+## BSC  平臺 (氣費中)
+ - [Pancake 煎餅](https://pancakeswap.finance/) 幣安智能鏈下最大的代幣交易平臺
+ - [Bakery  烘焙](https://www.bakeryswap.org/ ) 幣安智能鏈下最大的NFT 藝術品交易平臺
+ 
+
+## HECO 平臺 (氣費低)
+
+
+
 
 **[`^        back to top        ^`](#)**
 
