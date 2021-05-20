@@ -2,6 +2,8 @@
 All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/9cat/awesome-crypto) 
 
+
+
 # 中心化交易平臺
 
 ## 全球站
@@ -64,6 +66,17 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
  
 
 ## HECO 平臺 (氣費低)
+
+
+# 基金
+
+## 指數基金
+- [aiBED](https://www.goswap.app/#/swap?inputCurrency=0xCFF01F9c5898505C36b32BdeFDe7a31F78EEcF3e&outputCurrency=0xf15875E53de0f9368e4a08D9f571d5C855FEa725)  基於比特幣Bitcoin / 以太坊 ETH / 去中心化金融 Defi 為主體的基金, 風險較直接買單一幣種低. 價格走勢可[點擊這里](https://aibswap.com)
+
+## 量化基金
+
+**[`^        back to top        ^`](#)**
+
 
 
 
