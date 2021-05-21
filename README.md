@@ -81,6 +81,14 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 
 ## 量化基金
 
+
+
+## 量化工具
+- [COIN919] http://zsweb.coin919.pro/Reg.html?code=12996) - 較為專業量化軟件. 學習曲線較大, 中級程序的量化交易員可使用.
+- [派網](https://www.pionex.cc/zh-CN/sign/ref/u0j4MLa9) - 網格交易的小白交易軟件. 資金利用率相對低. 但相對安全一些. 使用幣安的后臺. 會有連帶風險
+
+
+
 **[`^        back to top        ^`](#)**
 
 
