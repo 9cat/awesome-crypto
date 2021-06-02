@@ -10,9 +10,11 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 - [BINANCE 幣安](https://www.binance.com/zh-CN/register?ref=ZYWF115V) -  2021年目前最強大的弱監管加密貨幣交易所
 - [HUOBI   火幣](https://www.huobi.pe/zh-cn/topic/invited/?invite_code=48b53) -  2013-2021 目前中國人民幣OTC最強大的綜合加密貨幣交易所
 - [OKEX](https://www.okex.com/join/1889195) 最早的期貨平臺. 也同時有現貨, 期權交易平臺. OKCOIN的出海版本.
+- [FTX](https://ftx.com/#a=9cat) SBF 知名的量化交易團隊的中心化交易平臺. 有股票代幣可選. 無國內監管問題. 并曾經支持拜登政府捐款, 救活SUSHI項目
 - [COINEX ](https://www.coinex.com/register?refer_code=pkz6r) - 技術不錯的交易平臺. 就是營銷能力欠缺,而且容易被站隊
 - [Deribit](https://www.deribit.com/reg-5649.1758) 2021年目前最強大的期權中心交易所
 - [Gate.io](https://www.gate.io/signup/33847) 前身比特兒(山東),老牌交易所. 現轉型國際站. 山寨幣云集, 上幣不收費用, 風險高. 技術一般. APP做得比網頁版本好很多
+- [Crypto.com](https://platinum.crypto.com/r/3tcr8uhpn6) 可以直接用傳統的VISA信用卡, 消費加密貨幣. 包括但不限于比特幣.
 - 
 
 ## 加拿大
