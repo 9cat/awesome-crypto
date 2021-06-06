@@ -15,7 +15,7 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 - [Deribit](https://www.deribit.com/reg-5649.1758) 2021年目前最強大的期權中心交易所
 - [Gate.io](https://www.gate.io/signup/33847) 前身比特兒(山東),老牌交易所. 現轉型國際站. 山寨幣云集, 上幣不收費用, 風險高. 技術一般. APP做得比網頁版本好很多
 - [Crypto.com](https://platinum.crypto.com/r/3tcr8uhpn6) 可以直接用傳統的VISA信用卡, 消費加密貨幣. 包括但不限于比特幣.
-- 
+- [Hoo虎符交易所](:https://www.hoo.co/friends/28538831?localeLang=zh-hans&) HSC的中心交易平臺
 
 ## 加拿大
 - [HiBitEX](https://www.hibitex.com/zh_CN/register?inviteCode=WTTLLZT) 溫哥華(加拿大) 本地有店面, 有情懷的交易平臺.可用加幣電匯,現金. 人民幣可用微信, 支付寶銀行直接轉賬. 
