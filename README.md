@@ -31,6 +31,13 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 **[`^        back to top        ^`](#)**
 
 
+
+# NFT交易平臺
+
+## 全球站
+- [OpenSea](https://opensea.io?ref=0x72762a91554bfc5e117d60e44cf6654235f8e844 最老牌的NFT交易所之一
+
+
 # 錢包軟件
 - [BitPie 比特派](https://bitpie.com/loan/index.html?code=YQS0RF)  最老牌穩定的錢包之一    
 - [TokenPocket TP錢包](https://www.tokenpocket.pro/) 2021年目前最流行Dapp的全能性錢包
