@@ -49,7 +49,8 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 ## Pow礦池
 - [Prohashing 機槍池](https://prohashing.com?r=DOI2NMGK)   美國BASE的機槍池. 非常技術派團隊, 收費比較高3%. 但挺人性化.
 - [F2Pool 魚池](https://www.f2pool.com) 最老牌礦池. 具有操控市場的潛力
-- [星火礦池](https://www.sparkpool.com/)  最大ETH礦池 
+- [星火礦池](https://www.sparkpool.com/)  第二大ETH礦池 (國內禁止后, 算力嚴重下降)
+- [EtherMine](https://ethermine.org/)  最大ETH礦池 
 
 ## DeFi 農民
 ### ETH  平臺
@@ -58,7 +59,10 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 ### BSC  平臺
  - [Pancake 煎餅](https://pancakeswap.finance/farms)   幣安主推的高收益挖礦項目
  
-### HECO 平臺
+### Raydium 平臺
+ - [Raydium 镭射 ](https://raydium.io/airdrop/?referral=qblzsY )   Solona 下主注以的挖礦平臺 Raydium. SBF 主導
+
+
 
 **[`^        back to top        ^`](#)**
 
@@ -73,8 +77,12 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
  - [Pancake 煎餅](https://pancakeswap.finance/) 幣安智能鏈下最大的代幣交易平臺
  - [Bakery  烘焙](https://www.bakeryswap.org/ ) 幣安智能鏈下最大的NFT 藝術品交易平臺
  
+## HECO 平臺 (坑人貨)
 
-## HECO 平臺 (氣費低)
+## HSC 平臺 (氣費低)
+ - [Pudding 布丁](https://puddingswap.finance/ ) 新加坡Hoo虎符交易平臺主導的DEFI 頭部交易所
+ - 
+
 
 
 # 基金
