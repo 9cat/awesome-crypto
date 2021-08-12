@@ -88,7 +88,7 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 # 基金
 
 ## 指數基金
-- HECO鏈[aiBED](https://www.goswap.app/#/swap?inputCurrency=0xCFF01F9c5898505C36b32BdeFDe7a31F78EEcF3e&outputCurrency=0xf15875E53de0f9368e4a08D9f571d5C855FEa725)  基於比特幣Bitcoin / 以太坊 ETH / 去中心化金融 Defi 為主體的基金, 風險較直接買單一幣種低. 價格走勢可[點擊這里](https://aibswap.com)
+- HSCHECO鏈[aiBED](https://www.goswap.app/#/swap?inputCurrency=0xCFF01F9c5898505C36b32BdeFDe7a31F78EEcF3e&outputCurrency=0xf15875E53de0f9368e4a08D9f571d5C855FEa725)  基於比特幣Bitcoin / 以太坊 ETH / 去中心化金融 Defi 為主體的基金, 風險較直接買單一幣種低. 價格走勢可[點擊這里](https://aibswap.com)
 - 
 - 基金專用美金aiUSD標的物,  HECO鏈USDT換aiUSD (目前僅小額體驗 < 100 USDT)  
 - #1GoSwap: [USDT-aiUSD](https://www.goswap.app/#/swap?inputCurrency=0xa71edc38d189767582c38a3145b5873052c3e47a&outputCurrency=0xCFF01F9c5898505C36b32BdeFDe7a31F78EEcF3e)
