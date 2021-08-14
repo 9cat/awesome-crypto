@@ -81,7 +81,8 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 
 ## HSC 平臺 (氣費低)
  - [Pudding 布丁](https://puddingswap.finance/ ) 新加坡Hoo虎符交易平臺主導的DEFI 頭部交易所
- - 
+ - [Lendoo 借貸](https://lendoo.finance?ref=10010) HSC上的頭部借貸平臺
+ 
 
 
 
