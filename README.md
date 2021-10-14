@@ -25,6 +25,7 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 
 ## 美國
 - [Coinbase](https://www.coinbase.com/join/temple) 最老牌的交易所之一, 目前已上市, 代號COIN.  強監管平臺.
+- [Bittrex](https://bittrex.com/account/register?referralCode=QDH-OGK-VVH)  最老牌的交易所之一,B站
  
 
 
