@@ -17,6 +17,11 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 - [Crypto.com](https://platinum.crypto.com/r/3tcr8uhpn6) 可以直接用傳統的VISA信用卡, 消費加密貨幣. 包括但不限于比特幣.
 - [Hoo虎符交易所](https://www.hoo.co/friends/28538831?localeLang=zh-hans&) HSC的中心交易平臺 (中國已經不能使用)
 
+- [ByBit交易所](https://www.bybit.com/en-US/invite?ref=X8WLN) 新崛起的主要有maker为负数的合约交易系统。 如果合约交易对冲比较多的。 推荐使用。 最近的优惠也比较多。 而且基本版本是不用做KYC认证
+
+
+
+
 ## 加拿大
 - [HiBitEX](https://www.hibitex.com/zh_CN/register?inviteCode=WTTLLZT) 溫哥華(加拿大) 本地有店面, 有情懷的交易平臺.可用加幣電匯,現金. 人民幣可用微信, 支付寶銀行直接轉賬. 
 - [VirgoCX](https://www.virgocx.ca/page#/register?code=o97aZr0d) 多倫多(加拿大) 可直接電匯, 與E-Transfer直接購買. 出入金費用較低. 
