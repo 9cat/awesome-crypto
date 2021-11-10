@@ -52,6 +52,11 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
 
 
 # 挖礦資源
+
+## 挖矿软件 
+[HiveOS 挖矿系统](https://hiveos.farm?ref=1039955) 非常好用稳定的挖矿软件 ， 非常省心。 4台内免费
+
+
 ## Pow礦池
 - [Prohashing 機槍池](https://prohashing.com?r=DOI2NMGK)   美國BASE的機槍池. 非常技術派團隊, 收費比較高3%. 但挺人性化.
 - [F2Pool 魚池](https://www.f2pool.com) 最老牌礦池. 具有操控市場的潛力
