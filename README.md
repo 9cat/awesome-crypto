@@ -71,7 +71,7 @@ All the resource related to crypto , bitcoin,  blockchains, DeFi projects
  - [Pancake 煎餅](https://pancakeswap.finance/farms)   幣安主推的高收益挖礦項目
  
 ### Raydium 平臺
- - [Raydium 镭射 ](https://raydium.io/airdrop/?referral=qblzsY )   Solona 下主注以的挖礦平臺 Raydium. SBF 主導
+ - [Raydium 镭射 ](https://raydium.io/airdrop/?referral=csylVU)   Solona 下主注以的挖礦平臺 Raydium. SBF 主導
 
 
 
